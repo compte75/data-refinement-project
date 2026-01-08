@@ -1,7 +1,7 @@
 # Projet : Nettoyage des Ventes du Café
 
 Présentation
-Le but de ce projet était de transformer un fichier de ventes "sale" (erreurs de calcul, cases vides, doublons) en un fichier propre et prêt à être utilisé pour prendre des décisions.
+Le but de ce projet était de transformer un fichier de ventes (erreurs de calcul, cases vides, doublons) en un fichier propre et prêt à être utilisé pour prendre des décisions.
 
 Organisation du dossier
 *DATA : Contient les données brutes et les données nettoyées.
